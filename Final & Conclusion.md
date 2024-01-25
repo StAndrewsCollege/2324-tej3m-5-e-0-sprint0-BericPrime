@@ -17,3 +17,9 @@ With these pieces, grab your largest one, and cut a hole in the base for it to s
 This towers should be extremely stable yet reach a large height.
 
 ### Conclusion
+
+This design is the most effecitve because they are extremly stable and large in height. They are also not too complex to create, and with proper building methods, can be replicated and improved on quite effectively. I beleive a good engieneer with proper tools could easily surpass my height with my method.
+
+This design, while effective at its job, requires quite a bit of work. First issue is its loss of materials at the base. This is likely avoidable with a better method of creation, but I need more time for that to meet its fruition. Another method is perhaps an exension of height through an external idea? Any method to add height is welcome. One final thing would be the bindings, as they are not great and are a large weak point. A binding method similar to #2 might be more effective.
+
+Overall, I would say my design could use a lot more improving, something an fellow engineer might be able to do if given the proper time and resources. I do still feel as though something is missing within my concpetual understanding of this project, and perhaps I could have taken a diffrent angle with this and recieved a better result. Still, the one I have is impressive enough, considering its stability. Feel free to copy my method if needed.
